@@ -1,8 +1,6 @@
 # [WhatsNew.js](https://bennyluk.github.io)
 
-WhatsNew.js is a lightweight plugin that helps you easily create a step-by-step tutorial in a modal format. It was designed for applications that need to explain new features to the client.
-
-Visit the [WhatNew.js Project Site](https://bennyluk.github.io) for demos and documentations.
+WhatsNew.js is a plugin that **customize**
 
 ## Table of Contents
 
